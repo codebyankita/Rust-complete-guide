@@ -1,0 +1,1 @@
+/Users/ankitakapadiya/Documents/code/Rust/Rust\ _programming/section_1/04_functions/target/debug/functions: /Users/ankitakapadiya/Documents/code/Rust/Rust\ _programming/section_1/04_functions/src/main.rs

@@ -1,0 +1,1 @@
+/Users/ankitakapadiya/Documents/code/Rust/Rust\ _programming/section_1/assignment/target/debug/assignment: /Users/ankitakapadiya/Documents/code/Rust/Rust\ _programming/section_1/assignment/src/main.rs
